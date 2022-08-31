@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: JKPS_TeX_sample_eps.aux
+Reallocated buffer (elt_size=1) to 40000 items from 20000.
+Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
+Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
+Reallocated out_buf (elt_size=1) to 40000 items from 20000.
+Reallocated name_tok (elt_size=4) to 40000 items from 20000.
+Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
+The style file: model1-num-names.bst.bst
+Database file #1: JKPS_TeX_sample_epsNotes.bib
+Database file #2: JKPS_TeX_sample_eps.bib
+Reallocated buffer (elt_size=1) to 60000 items from 40000.
+Reallocated sv_buffer (elt_size=1) to 60000 items from 40000.
+Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
+Reallocated out_buf (elt_size=1) to 60000 items from 40000.
+Reallocated name_tok (elt_size=4) to 60000 items from 40000.
+Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
+Reallocated str_pool (elt_size=1) to 260000 items from 195000.
+Reallocated str_pool (elt_size=1) to 325000 items from 260000.
+Reallocated str_pool (elt_size=1) to 390000 items from 325000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated str_pool (elt_size=1) to 455000 items from 390000.
+Reallocated buffer (elt_size=1) to 80000 items from 60000.
+Reallocated sv_buffer (elt_size=1) to 80000 items from 60000.
+Reallocated ex_buf (elt_size=1) to 80000 items from 60000.
+Reallocated out_buf (elt_size=1) to 80000 items from 60000.
+Reallocated name_tok (elt_size=4) to 80000 items from 60000.
+Reallocated name_sep_char (elt_size=1) to 80000 items from 60000.
+Reallocated str_pool (elt_size=1) to 520000 items from 455000.
+Reallocated buffer (elt_size=1) to 100000 items from 80000.
+Reallocated sv_buffer (elt_size=1) to 100000 items from 80000.
+Reallocated ex_buf (elt_size=1) to 100000 items from 80000.
+Reallocated out_buf (elt_size=1) to 100000 items from 80000.
+Reallocated name_tok (elt_size=4) to 100000 items from 80000.
+Reallocated name_sep_char (elt_size=1) to 100000 items from 80000.
+You've used 36 entries,
+            2910 wiz_defined-function locations,
+            910 strings with 301134 characters,
+and the built_in function-call counts, 1049769 in all, are:
+= -- 37062
+> -- 142684
+< -- 18
++ -- 53510
+- -- 53472
+* -- 180011
+:= -- 162808
+add.period$ -- 36
+call.type$ -- 36
+change.case$ -- 18002
+chr.to.int$ -- 34
+cite$ -- 36
+duplicate$ -- 36889
+empty$ -- 19161
+format.name$ -- 53558
+if$ -- 163415
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 18075
+newline$ -- 195
+num.names$ -- 144
+pop$ -- 17983
+preamble$ -- 1
+purify$ -- 18002
+quote$ -- 0
+skip$ -- 361
+stack$ -- 0
+substring$ -- 1089
+swap$ -- 72228
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 324
+warning$ -- 0
+while$ -- 149
+width$ -- 0
+write$ -- 482

@@ -1,0 +1,44 @@
+Dear Jeongseak,
+
+I am sorry that I had to attend the International Conference in High
+Energy Physics a week ago and cannot take care of replying to you.
+
+I have found the fortran programs to calculate the results in my paper
+PRC84, 024901 (2011).  They are attached here in this email as a tar
+file
+        mkLHCpack.tar.gz
+
+which you can expand it out.  Inside the package are the fortran
+programs.
+
+   For the dN/ptdpt The fortran program is mkLHC.f
+
+   which is based on an earlier fortran  momkick02.f
+
+I have also found the fortran program to calculate the number of
+participants and number of kicked medium number.
+
+The fortran program is
+
+                          ppbb.f
+
+The input and output files associated with ppbb.f are also in the package.
+
+The input and output files for all the fortran programs are also in the
+attached package.
+
+You mentioned that you get a different plot of number of kicked medium
+particles versus Nch (my figure 4).  You may note that there is a
+paragraph which talks about the "initial time t0" on the paragraph
+after Eq. (32).  Have you taken into account this t0.
+
+To compare your numbers with my graphs, it may be necessary for me to
+talk to you on zoom to find out where the differences are and we can
+then discuss the differences.  It is hard to know why until we can sit
+down and discuss the numbers because there are many possibilities.  If
+you wish to talk by zoom, let me know and we can arrange a zoom time
+to talk.
+
+Please send my warmest regards to Prof. Yoon and her family for me.
+
+Best regards!

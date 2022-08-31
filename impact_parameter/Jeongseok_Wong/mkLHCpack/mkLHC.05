@@ -1,0 +1,13 @@
+  1   1                  ! ietaCase(0=etaAss|1=etaAss-etaj),iaccCor(1=yes|0=no)
+  -1.99 1.99  41   1   ! etajetmn,etajmx,netaj,nsdetaj(sides) of jet trigger
+  -2.0  2.0             ! etaAssmn, etaAssmx of associated eta
+   0.0   4.0   40   2    ! [eta meaning <- ietaCase] etamn,etamx,neta,nsdeta
+  1.00  1.0  0.632       ! q(GeV), fRNk(chrg+neu), fJ(ppjet->AA)
+  0.140 0.5 0.55 1.0      ! am(GeV), aa in (1-x)**aa , Ti(GeV), amd(GeV)
+  3500.0  4.0             ! sqrts_NN (GeV), PTtrig (GeV) [midpoint]
+  0.35 0.00  0.31  0.00  ! aNjet0,dNjetdPT,Tjet0(GeV),dTjetdPT
+  0.50 0.50 1.1          ! sigfi0,sigeta0,ama(GeV)
+  0.0  0.050  31   2      ! fi,dfi, nfi,  nsdfi(#sides)
+  1.00  0.05 40           ! pt,dpt, npt
+  1.00  0.05 40           ! pttr,dpttr, npttr  --- trigger range
+  1   0   0  1           ! plot dNptdpt(dNdpt),dNdDfi,dNdDeta,dN/(dDfi dDeta)

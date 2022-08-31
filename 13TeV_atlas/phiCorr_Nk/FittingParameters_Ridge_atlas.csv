@@ -1,0 +1,8 @@
+a,0.5
+T,0.65
+pion mass,0.13957
+beam mass,0.13957
+sqrtSnn,13000
+A_Ridge,0.0407227
+f_R=,exp(0.5*pT)
+<N_k>=,14exp(250<N_{ch}^{rec}>)

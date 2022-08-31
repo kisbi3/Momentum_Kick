@@ -1,0 +1,10 @@
+  0.01  90. 0.180 0.36  !zeta(def.0.21),dNpton/dNpaticp,j-m xsec(fm**2),tau0
+  1.00                  ! sigIN, use sigin=1 for  normlized pp
+  0.80  0.80            ! R0B,R0A (fm)
+  0.020     50          ! DBOR,IBMAX
+  0.020     50      1   ! DBNNOR,IBNNMX,IBNNPR
+     1.0   1.0  1  7000.   0      !B,A,IEOPT(0plab/1cms),EGEV(NN),IBPRNT
+   10  0  1  1            ! what IBNNwhch,ibxyplt,IPRNk,IPLNK
+   1  5                   ! IBNNkick0, get anK every IBNNdelta 
+   15.0   30.0   3        ! phis0 (degrees), dphis, nphis 
+   1.0  96.0              ! ridyldanorm, chgmulanorm(96.)

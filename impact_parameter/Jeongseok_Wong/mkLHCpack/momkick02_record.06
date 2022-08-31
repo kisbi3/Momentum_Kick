@@ -1,0 +1,115 @@
+
+  EXPERIMENTAL SETUP & ETA ACCEPTANCE INPUT
+  Input choice: izetaCase =           1
+  Input choice: iaccCor   =           1
+  The meaning of zeta depends on izetaCase
+  Cases are:
+  If izetaCase=0,zeta=etaAss & iaccCor is not used 
+  If izetaCase=1,zeta=etaAss-etajet=Delta_eta(STAR)
+  If izetaCase=1 &iaccCor=0, no tnglr accpt corrctns
+  If izetaCase=1 &iaccCor=1,use tnglr accpt corrctns
+ (Jet) etajmn,etajmx,netaj= -0.69999999999999996       0.69999999999999996               41
+ # of above sides of (Jet),nsdetaj=           1
+ (Associated) etaAssmn,etaAssmx=  -1.0000000000000000        1.0000000000000000     
+ (zetaRange)zetamn,zetamx,nzeta=   0.0000000000000000        1.3999999999999999               31
+ # of sides of above zeta set  =           2
+
+ INPUT MOMENTUM KICK PARAMETERS:
+  q=   1.0000000000000000      GeV = momentum kick in jet directn(GeV)
+  fRNk=   4.0000000000000000      = fRNk = fR * <total Nkick >
+  fRNkch=   2.6666667999999998      =(2/3)*fR*<total Nk>
+                 =totl chrgd ridge particles
+  fJ=  0.63200000000000001      =survval factor of pp jet in AA collisns
+
+ INPUT INITIAL PARTON MOMENTUM DISTRBTN PARAMETERS:
+ am=  0.14000000000000001      GeV 
+  initial y-dis=(1-x)**aa
+ aa=  0.50000000000000000      = expon index of (1-x)**aa init distrbtn
+ Ti=  0.50000000000000000       GeV = initial Tempertaure
+ amd=   1.0000000000000000       GeV = mass in denominator of distrbtn
+
+ EXPERIMENTAL sqrt(s) and PT_trig
+  sqrt(s_NN) (GeV)=   100.00000000000000     
+  ybeam=-ytarget=   5.3613352917444823     
+  PT_trig (GeV)=   4.0000000000000000     
+
+ INPUT ppjet MOMENTUM DISTRIBUTION PARAMETERS
+ aNjet0=  0.75000000000000000     
+ Tjet0 =  0.55000000000000004     
+ dNjetdPT=   0.0000000000000000     
+ dTjetdPT=   0.0000000000000000     
+
+ aNjet = aNjet0 + dNjetdPT * PTtrig
+ TJet  = Tjet0  + dTjetdPT * PTtrig
+ aNjet=  0.75000000000000000      ,totl chrged partl asscatd with ppjet
+ Tjet =  0.55000000000000004       GeV= Tempertaure of jet component
+ sigfi =sigfi0 * ama /sqrt(ama^2+pt**2)
+ sigeta =sigeta0 * ama /sqrt(ama^2+pt**2)
+  sigfi0=  0.50000000000000000        sigeta0=  0.50000000000000000     
+ ama=   1.0000000000000000       GeV= mass ama in above formula
+ -------------------------------------------------
+  BRIEF SUMMARY OF FORMULAS
+  dNtotal=dNridge_component + dNAAjet_component
+  dNridge/ptdptdetadphi=(2/3)*fRNk*dF/ptdptdetadphi
+  dNAAjet/ptdptdetadphi=   fJ * dNppjet/ptdptdetadphi
+  fRNk  =fR * < Nk >=ridgeatten*tot num kiked parton
+  fRNkch=(2/3)fR*<Nk>=ridatten*totchrgnkiked parton
+    observed(charged) ridge particle = fRNkch
+
+  Normlz init (chrgd and neutrl) momentum dstrbtn is
+  dF/dyptdpt = A_norm (1-x)^aa * exp(-amT/Ti)/amdT
+                  amT =sqrt(am^2 +pt^2)
+                  amdT=sqrt(amd^2+pt^2)
+              x=amT*exp(|y|-yb)/amb; yb=ybeam, amb=am
+
+  pp jt associated (charged) yield is 
+ dNpp/dDeta dDfi ptdpt=anjet*ANormj*exp(-amT/Tjet))
+     *exp{-Delta_fi^2 /[2*sigfi^2 ]}
+     *exp{-Delta_eta^2/[2*sigeta^2]}
+     /[2*pi*sigfi*sigeta]
+     where sigfi =sigfi0 *ama/sqrt(ama**2+pt**2)
+           sigeta=sigeta0*ama/sqrt(ama**2+pt**2)
+ dNchtot/...= fRNkch*dF/... + fJ*dNpp/...
+ --------------------------------------------------
+
+ EXPERIMENTAL CONDITIONS AND ACCEPTANCE
+ (Jet)               detaj=  3.49999999999999964E-002
+ (Output zeta)        dzeta=  4.66666666666666619E-002
+ fimin, dfi, nfi =   0.0000000000000000       2.50000000000000014E-002          41
+ # of above zeta sides  nsdfi=           2
+ ptmin, dpt, npt =  0.14999999999999999       5.00000000000000028E-002          78
+ iptplt=              1
+ ifiplt=              0
+ ietaplt=             0
+ ifietaplt=           0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

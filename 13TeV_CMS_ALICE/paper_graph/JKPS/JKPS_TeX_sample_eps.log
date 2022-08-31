@@ -1,0 +1,850 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.21)  22 MAR 2022 11:43
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.tex
+(/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/revtex/revtex4-2.cls
+Document Class: revtex4-2 2019/01/18/14:29:48 4.2c (https://journals.aps.org/revtex/ for documentation)
+ Copyright (c) 2019 American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>Version (4.2c): Modified by Mark Doyle
+ .
+ltxutil[2019/01/18/14:29:48 4.2c utilities package (portions licensed from W. E. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 315.
+Class revtex4-2 Info: Repairing broken LaTeX eqnarray on input line 365.
+\eqncolsep=\skip47
+Class revtex4-2 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfootnote on input line 440.
+Class revtex4-2 Info: Repairing broken LateX \@sect on input line 762.
+\intertabularlinepenalty=\count167
+\@tbpen=\count168
+\@arstrutbox@hline=\box45
+Class revtex4-2 Info: Repairing broken LaTeX \@xbitor on input line 1793.
+Class revtex4-2 Info: Making \typeout \long on input line 2053.
+ltxfront[2019/01/18/14:29:48 4.2c frontmatter package (AO,DPC,MD)]
+\c@affil=\count169
+\c@collab=\count170
+\absbox=\box46
+ltxgrid[2019/01/18/14:29:48 4.2c page grid package (portions licensed from W. E. Baxter web at superscript.com)]
+\c@linecount=\count171
+\output@latex=\toks14
+\box@size@1=\box47
+\box@size@2=\box48
+\@protection@box=\box49
+\@topmark@saved=\toks15
+\footins@saved=\box50
+\footins@recovered=\box51
+\column@recovered=\box52
+\pagesofar=\box53
+\footsofar=\box54
+\pagegrid@col=\count172
+
+Class revtex4-2 Warning: Failed to recognize \@vspace, \@vspacer, \@no@pgbk, \@newline, and \\; no patches applied. Please get a more up-to-date class, .
+
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count179
+\fbox@1=\box55
+\c@table=\count180
+\fbox@2=\box56
+\c@video=\count181
+\fbox@4=\box57
+\@bibdataout=\write3
+\widetext@top=\box58
+\widetext@bot=\box59
+
+Class revtex4-2 Warning: No Society specified, using default society aps.
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps4-2.rtx
+File: aps4-2 2019/01/18/14:29:48 4.2c (https://journals.aps.org/revtex/ for documentation)
+Class revtex4-2 Info: RevTeX society APS selected on input line 37.
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen134
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+
+Class revtex4-2 Warning: No journal specified, using default pra.
+
+Class revtex4-2 Info: APS journal PRA selected on input line 7584.
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen135
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+
+Class revtex4-2 Warning: No type size specified, using default 10.
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps10pt4-2.rtx
+File: aps10pt4-2 2019/01/18/14:29:48 4.2c (https://journals.aps.org/revtex/ for documentation)
+Class revtex4-2 Info: RevTeX pointsize 10pt selected on input line 36.
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen136
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+) (/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip50
+\bibsep=\skip51
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count182
+)
+Class revtex4-2 Info: Repairing natbib's \BibitemShut on input line 7588.
+ (/usr/share/texlive/texmf-dist/tex/latex/revtex/revsymb4-2.sty
+Package: revsymb4-2 2019/01/18/14:29:48 4.2c (https://journals.aps.org/revtex/ for documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 125.
+)) (/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/numcompress.sty
+Package: numcompress 2012/08/18 187 numcompress (CVR)
+
+
+Package numcompress Warning: ****************************************
+(numcompress)                Package numcompress v,187 loaded
+(numcompress)                [Compress numbers (CVR)]
+(numcompress)                ****************************************.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+)) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen139
+)
+LaTeX Info: Redefining \text on input line 28.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count183
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count184
+\leftroot@=\count185
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count186
+\DOTSCASE@=\count187
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box60
+\strutbox@=\box61
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count188
+\c@MaxMatrixCols=\count189
+\dotsspace@=\muskip17
+\c@parentequation=\count190
+\dspbrk@lvl=\count191
+\tag@help=\toks19
+\row@=\count192
+\column@=\count193
+\maxfields@=\count194
+\andhelp@=\toks20
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks21
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+) (/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip55
+\L@UnitsRaiseTextstyle=\skip56
+\L@UnitsRaiseScriptstyle=\skip57
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip58
+\multirow@cntb=\count195
+\multirow@dima=\skip59
+\bigstrutjot=\dimen148
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count196
+\rotFPtop=\skip60
+\rotFPbot=\skip61
+\rot@float@box=\box62
+\rot@mess@toks=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+Class revtex4-2 Info: Unrecognized LaTeX tabular. Please update this document class! (Proceeding with fingers crossed.) on input line 15.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 15.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 15.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 15.
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count197
+\l__pdf_internal_box=\box63
+)
+
+LaTeX Warning: Unused global option(s):
+    [jkps].
+
+(/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.aux)
+\openout1 = `JKPS_TeX_sample_eps.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 15.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen149
+\scratchbox=\box64
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen150
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\openout3 = `JKPS_TeX_sample_epsNotes.bib'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+Package natbib Warning: Citation `ref1' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref2' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref3' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref4' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref5' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref6' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref7' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref8' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref9' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref10' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref11' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `ref12' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref13' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref14' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref15' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref16' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref17' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref18' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref19' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref20' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref21' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref22' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref23' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref24' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref25' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref26' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ref27' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `Wong_2' on page 1 undefined on input line 46.
+
+
+Package natbib Warning: Citation `Wong_3' on page 1 undefined on input line 46.
+
+
+Package natbib Warning: Citation `Wong_4' on page 1 undefined on input line 46.
+
+
+Package natbib Warning: Citation `Wong_5' on page 1 undefined on input line 46.
+
+
+Package natbib Warning: Citation `Wong_1' on page 1 undefined on input line 58.
+
+
+Package natbib Warning: Citation `PbPb' on page 1 undefined on input line 58.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package natbib Warning: Citation `PbPb' on page 2 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Wong_1' on page 2 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Wong_1' on page 2 undefined on input line 115.
+
+
+Package natbib Warning: Citation `alice' on page 2 undefined on input line 127.
+
+
+Package natbib Warning: Citation `cms' on page 2 undefined on input line 127.
+
+
+Package natbib Warning: Citation `atlas' on page 2 undefined on input line 127.
+
+
+Package natbib Warning: Citation `alice' on page 2 undefined on input line 140.
+
+
+Package natbib Warning: Citation `cms' on page 2 undefined on input line 140.
+
+
+Package natbib Warning: Citation `atlas' on page 2 undefined on input line 140.
+
+
+Package natbib Warning: Citation `alice' on page 2 undefined on input line 144.
+
+
+Package natbib Warning: Citation `cms' on page 2 undefined on input line 144.
+
+
+Package natbib Warning: Citation `atlas' on page 2 undefined on input line 144.
+
+
+Package natbib Warning: Citation `Wong_1' on page 2 undefined on input line 156.
+
+
+Package natbib Warning: Citation `PbPb' on page 2 undefined on input line 156.
+
+
+Package natbib Warning: Citation `alice' on page 2 undefined on input line 157.
+
+
+Package natbib Warning: Citation `cms' on page 2 undefined on input line 157.
+
+
+Package natbib Warning: Citation `atlas' on page 2 undefined on input line 157.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2]
+
+Package natbib Warning: Citation `Wong_1' on page 3 undefined on input line 201.
+
+
+Package natbib Warning: Citation `PbPb' on page 3 undefined on input line 201.
+
+<Paper_frnk.pdf, id=31, 2529.45pt x 1194.91219pt>
+File: Paper_frnk.pdf Graphic file (type pdf)
+<use Paper_frnk.pdf>
+Package pdftex.def Info: Paper_frnk.pdf  used on input line 206.
+(pdftex.def)             Requested size: 341.42242pt x 170.71434pt.
+
+Package natbib Warning: Citation `alice' on page 3 undefined on input line 225.
+
+
+Package natbib Warning: Citation `cms' on page 3 undefined on input line 225.
+
+
+Package natbib Warning: Citation `atlas' on page 3 undefined on input line 225.
+
+<Paper_phiCorr.pdf, id=32, 7227.0pt x 1445.4pt>
+File: Paper_phiCorr.pdf Graphic file (type pdf)
+<use Paper_phiCorr.pdf>
+Package pdftex.def Info: Paper_phiCorr.pdf  used on input line 229.
+(pdftex.def)             Requested size: 455.2152pt x 99.57832pt.
+<Paper_pTdis.pdf, id=33, 2890.8pt x 1445.4pt>
+File: Paper_pTdis.pdf Graphic file (type pdf)
+<use Paper_pTdis.pdf>
+Package pdftex.def Info: Paper_pTdis.pdf  used on input line 238.
+(pdftex.def)             Requested size: 227.60759pt x 113.80379pt.
+[3 </home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/Paper_frnk.pdf>]
+
+Package natbib Warning: Citation `PbPb' on page 4 undefined on input line 266.
+
+(/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl
+
+LaTeX Warning: Reference `LastBibItem' on page 4 undefined on input line 1.
+
+[4 </home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/Paper_phiCorr.pdf> </home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/Paper_pTdis.pdf
+
+pdfTeX warning: pdflatex (file /home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/Paper_pTdis.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:1073: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1073 ...astaldi}, \bibinfo{author}{R.~DʼAgnolo}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:1074: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1074   \bibinfo{author}{R.~DellʼOrso}
+                                        , \bibinfo{author}{F.~Fiori},
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:1246: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1246   \bibinfo{author}{D.~DʼEnterria}
+                                         , \bibinfo{author}{A.~Dabrowski},
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:1467: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1467 ...agnari}, \bibinfo{author}{M.~DʼAlfonso}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:1528: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1528 ...an-Holmes}, \bibinfo{author}{V.~OʼDell}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:1573: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1573 ...~Lacroix}, \bibinfo{author}{C.~OʼBrien}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[5] [6] [7] [8]
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:2085: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2085 ...Blyweert}, \bibinfo{author}{J.~DʼHondt}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:2413: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2413 ...ini}, \bibinfo{author}{R.~DʼAlessandro}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:2462: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2462   \bibinfo{author}{R.~DʼAgnolo}
+                                       , \bibinfo{author}{R.~DellʼOrso},
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:2462: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2462 ...Agnolo}, \bibinfo{author}{R.~DellʼOrso}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:2636: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2636   \bibinfo{author}{D.~dʼEnterria}
+                                         , \bibinfo{author}{A.~Dabrowski},
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:2854: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2854 ...agnari}, \bibinfo{author}{M.~DʼAlfonso}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:2917: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2917 ...an-Holmes}, \bibinfo{author}{V.~OʼDell}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:2961: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2961   \bibinfo{author}{C.~OʼBrien}
+                                      , \bibinfo{author}{C.~Silkworth},
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:7918: Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7918   \bibinfo{author}{�.~Djuvsland}
+                                       , \bibinfo{author}{A.~Dobrin},
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:7969: Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7969 ...{R.~Haake}, \bibinfo{author}{�.~Haaland}
+                                                  ,
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:8058: Package inputenc Error: Unicode character ʼ (U+02BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8058 ...inina}, \bibinfo{author}{D.~MalʼKevich}
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:8278: Package inputenc Error: Unicode character π (U+03C0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8278   p–pb collisions at snn=5.02 tev}
+                                           ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[22] [23]
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:8524: Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8524 ...~Divià}, \bibinfo{author}{�.~Djuvsland}
+                                                  ,
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:8578: Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8578 ...{R.~Haake}, \bibinfo{author}{�.~Haaland}
+                                                  ,
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+[24] [25]
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:9402: Undefined control sequence.
+<recently read> \mathplus 
+                          
+l.9402   {STAR} at}
+                   ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:9402: Undefined control sequence.
+<recently read> \mathplus 
+                          
+l.9402   {STAR} at}
+                   ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.bbl:9402: Undefined control sequence.
+<recently read> \mathplus 
+                          
+l.9402   {STAR} at}
+                   ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[26] [27] [28] [29] [30])
+
+Package natbib Warning: There were undefined citations.
+
+[31] (/home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4926 strings out of 481239
+ 64771 string characters out of 5920377
+ 542546 words of memory out of 5000000
+ 20095 multiletter control sequences out of 15000+600000
+ 565392 words of font info for 103 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,12n,32p,26915b,765s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/jaesung/OneDrive/Code/WongCode/13TeV_CMS_ALICE/paper_graph/JKPS/JKPS_TeX_sample_eps.pdf (31 pages, 576629 bytes).
+PDF statistics:
+ 275 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
