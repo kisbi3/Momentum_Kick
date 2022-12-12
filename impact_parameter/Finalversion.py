@@ -26,7 +26,7 @@ T0 = 0.43       #fm/c
 JETA = 0.20     #in eq(36)
 
 #쪼개는 개수
-nb = 50
+nb = 100
 nphis = 100
 nb0 = 300
 nl_step = 1000
@@ -111,6 +111,10 @@ def Pjet(b, b0x, b0y):
 
 
 if __name__ == '__main__':
+    # High multiplicity인 Nk를 저장해서 평균해가지고 논문에 쓸 변수
+    HighMulti_Average = 0
+    HighMulti_Average_number = 0
+    mpl.rcParams["text.usetex"] = True
     impact_param = np.linspace(0.,1.6, nb)
     Nk_result = np.zeros(nb)
     Nch_result = np.zeros(nb)
@@ -121,9 +125,12 @@ if __name__ == '__main__':
         Nch_result[i] = N_ch(impact_param[i])
         Nk_result[i] = Nk_b(impact_param[i])
         print(impact_param[i], Nk_result[i], Nch_result[i])
+        if(Nch_result[i]>105):
+            HighMulti_Average = HighMulti_Average + Nk_result[i]
+            HighMulti_Average_number = HighMulti_Average_number + 1
         # Nch_result[i] = N_ch(impact_param[i])
         # print(impact_param[i], Nch_result[i])
-
+    print(f"High multiplicity Average: {HighMulti_Average/HighMulti_Average_number}")
     # Graphs
     print("End")
 
@@ -150,7 +157,7 @@ if __name__ == '__main__':
     plt.tick_params(axis='both',which='major',direction='in', width=2,length=30,labelsize=45, top='true')
     plt.tick_params(axis='both',which='minor',direction='in', width=2,length=15,labelsize=45, top='true')
     plt.xlabel(r'$impact \,\, parameter$',size=70)
-    plt.ylabel(r'$N_k $',size=70)
+    plt.ylabel(r'$\langle N_k \rangle$',size=70)
 
     plt.grid(color='silver',linestyle=':',linewidth=5)
     # plt.legend(fontsize=45,framealpha=False,loc='upper left')
@@ -191,7 +198,7 @@ if __name__ == '__main__':
     plt.tick_params(axis='both',which='minor',direction='in',width=2,length=15,labelsize=45, top='true')
     plt.grid(color='silver',linestyle=':',linewidth=5)
     plt.xlabel(r'$ N_{ch} $',size=70)
-    plt.ylabel(r'$ N_k $',size=70)
+    plt.ylabel(r'$\langle N_k \rangle$',size=70)
     plt.tight_layout()
 
     fig.savefig('Nch_Nk.png')
