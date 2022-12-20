@@ -17,13 +17,17 @@ time_start = time.time()
 # Diameter = 1.59       #fm
 RA = 0.8
 RB = 0.8
-KP = 367.       #ratio
-# KP = 21.      #RHIC
-C_CMS = 0.269   #ratio
+KP = 500.       #ratio 13 TeV
+# KP = 367.       #ratio 7 TeV
+# KP = 21.      #RHIC  200 GeV
+# C_CMS = 0.269   #ratio 7 TeV
+C_CMS = 0.252   #ratio 13 TeV
 SIGMA = .14
-T0 = 0.43       #fm/c
-# T0 = 0.6        #RHIC
-JETA = 0.20     #in eq(36)
+T0 = 0.39        #fm/c  13 TeV
+# T0 = 0.43       #fm/c  7 TeV
+# T0 = 0.6        #RHIC 200 GeV
+JETA = 0.50     #in eq(36) 13 TeV
+# JETA = 0.20     #in eq(36) 7 TeV
 
 #쪼개는 개수
 nb = 100
